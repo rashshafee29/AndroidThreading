@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidThreading</string>
+    <string name="single_threadingText">SingleThreading initial text</string>
+</resources>
